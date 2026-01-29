@@ -29,7 +29,7 @@ This project demonstrates how basic banking operations work, such as account cre
 
 📚 Learning Purpose
 
-This project is ideal for :
+This project is ideal for :  
   ->Beginners learning C++  
   ->College mini-projects   
   ->Understanding real-world OOP implementation  
